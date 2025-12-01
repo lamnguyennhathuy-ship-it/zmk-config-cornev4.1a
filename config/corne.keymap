@@ -39,7 +39,7 @@
             bindings = <
 &trans  &kp PAGE_UP    &kp HOME        &kp UP_ARROW    &kp END          &kp C_VOLUME_UP      &kp EQUAL     &kp N7        &kp N8        &kp N9        &kp RIGHT_BRACKET  &kp DELETE
 &trans  &kp PAGE_DOWN  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp C_VOLUME_DOWN    &kp MINUS     &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp LEFT_BRACKET   &kp INSERT
-&trans  &kp CAPSLOCK   &kp LG(LA(B))   &kp C_PREVIOUS  &kp C_NEXT       &kp C_PLAY_PAUSE     &kp NUMBER_0  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp GRAVE          &trans
+&trans  &kp CAPSLOCK   &kp LG(LA(B))   &kp C_PREVIOUS  &kp C_NEXT       &kp C_PLAY_PAUSE     &kp NUMBER_0  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp GRAVE          &kp ENTER
                                        &trans          &trans           &trans               &trans        &to 0         &trans
             >;
         };
